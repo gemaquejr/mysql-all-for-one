@@ -12,6 +12,7 @@ O projeto foi para praticar todos os conceitos de SQL aprendidos, resolvendo uma
 ## 🚀 Tecnologia
 
 - ⚡ MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface.
+- ⚡ MySQL Workbench é uma ferramenta de design de banco de dados visual que integra desenvolvimento SQL, administração, design de banco de dados, criação     e manutenção em um único ambiente de desenvolvimento integrado para o sistema de banco de dados MySQL.
 
 ## ✋🏻 Pré-requisitos
 
@@ -20,6 +21,8 @@ O projeto foi para praticar todos os conceitos de SQL aprendidos, resolvendo uma
 - [Visual Studio Code](https://code.visualstudio.com/): Editor de Código Fonte
 
 - [MySQL](https://www.mysql.com/): Sistema de gerenciamento de banco de dados (SGBD) relacional, ou seja, que utiliza a linguagem SQL como interface.
+
+- [MySQL Workbench](https://www.mysql.com/products/workbench/): MySQL é uma ferramenta de design de banco de dados visual que integra desenvolvimento       SQL, administração, design de banco de dados, criação e manutenção em um único ambiente de desenvolvimento integrado para o sistema de banco de dados     MySQL.
 
 ## :hammer_and_wrench: Antes de iniciar o projeto.
 

@@ -1,6 +1,6 @@
 # MySql All For One
 
-Essa aplicação foi feita usando um frontend em React pré-desenvolvido pela TRYBE, nosso objetivo era criar a conexão em backend.
+Essa aplicação foi desenvolvida em MySQL.
 
 ![preview](.github/preview.gif)
 

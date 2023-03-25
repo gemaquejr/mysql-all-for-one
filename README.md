@@ -1,8 +1,6 @@
 # MySql All For One
 
-Essa aplicação foi desenvolvida em MySQL.
-
-![preview](.github/preview.gif)
+Essa aplicação foi desenvolvida para um banco de dados em MySQL.
 
 Aplicação que consiste em fazer a normalização e modelagem de banco de dados.
 
